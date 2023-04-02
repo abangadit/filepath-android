@@ -1,0 +1,22 @@
+{
+  "name": "com.abangadit.filepath2",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.abangadit.filepath2",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abangadit/filepath-android.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "adit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abangadit/filepath-android/issues"
+  },
+  "homepage": "https://github.com/abangadit/filepath-android#readme"
+}
