@@ -12,4 +12,9 @@ module.exports = {
       path,
     ]);
   },
+  resolveNativePath2: function (path, successCallback, errorCallback) {
+    exec(successCallback, errorCallback, "FilePath2", "resolveNativePath2", [
+      path,
+    ]);
+  },
 };
